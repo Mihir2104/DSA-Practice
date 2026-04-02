@@ -2,6 +2,9 @@
 #include <vector>
 using namespace std;
 
+//time: O(m+n)
+//sapce : O(m+n)
+
 vector<int> unionArray(vector<int>& nums1, vector<int>& nums2) {
 
     int x = nums1.size();
