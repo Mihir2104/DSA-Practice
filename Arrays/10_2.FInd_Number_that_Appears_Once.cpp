@@ -2,8 +2,8 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-//Time: O(N Log(N))
-//Space: O(N)
+//Time: O(N)
+//Space: O(1)
 class Solution{
    public:    
     int singleNumber(vector<int>& nums){
